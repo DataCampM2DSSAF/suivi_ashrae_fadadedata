@@ -20,13 +20,13 @@ Les défis environnementaux actuels se multiplient en même temps que notre cons
  * Lecture et fusion des données
  * Visualisations 
     * Recherche d'extremums
-    * Recherche de valeurs manquantes (graphe avec les % manquant)
+    * Recherche de valeurs manquantes
  * Feature engineering conformément aux observations
      *  Traitement des valeurs manquantes
      *  Ajout de variables pour des modèles plus complets (photo premieres couches de l'arbre)
  * Implémentation des différents modèles
-    * Modèle linéaire (photo perf)
-    * Arbre de régression (photo perf)
+    * Modèle linéaire
+    * Arbre de régression
 
 
 ##  Librairies utilisées
